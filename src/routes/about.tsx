@@ -48,7 +48,7 @@ function AboutPage() {
       <section className="section-y container-x grid lg:grid-cols-12 gap-12 lg:gap-16">
         <Reveal className="lg:col-span-5">
           <div className="aspect-[4/5] overflow-hidden rounded-2xl gold-sheen relative">
-            <img src="src/assets/admin.jpeg" alt="Rajendraprasath portrait" className="w-full h-full object-cover transition-transform duration-[1400ms] hover:scale-105" />
+            <img src="https://dtechgrow.com/blog/wp-content/uploads/2026/07/admin.jpeg" alt="Rajendraprasath portrait" className="w-full h-full object-cover transition-transform duration-[1400ms] hover:scale-105" />
             <div className="absolute inset-0 ring-1 ring-inset ring-gold/20 rounded-2xl pointer-events-none" />
           </div>
         </Reveal>

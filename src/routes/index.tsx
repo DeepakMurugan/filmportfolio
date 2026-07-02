@@ -194,7 +194,7 @@ function Home() {
           <Reveal className="lg:col-span-5">
             <div className="relative aspect-[4/5] overflow-hidden rounded-2xl gold-sheen">
               <img
-                src="src/assets/admin.jpeg"
+                src="https://dtechgrow.com/blog/wp-content/uploads/2026/07/admin.jpeg"
                 alt="Rajendraprasath, cinematographer"
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000 hover:scale-105"
               />
